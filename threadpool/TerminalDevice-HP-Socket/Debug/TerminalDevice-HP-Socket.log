@@ -1,0 +1,7 @@
+﻿  CUdpListenerObj.cpp
+X:\user\src\VisualStudio\TerminalDevice-HP-Socket\TerminalDevice-HP-Socket\CUdpListenerObj.h(2,10): error C1083: 无法打开包括文件: “HPSocket\SocketInterface.h”: No such file or directory
+  ListenerObj.cpp
+X:\user\src\VisualStudio\TerminalDevice-HP-Socket\TerminalDevice-HP-Socket\ListenerObj.h(1,10): error C1083: 无法打开包括文件: “HPSocket/HPSocket.h”: No such file or directory
+  main.cpp
+X:\user\src\VisualStudio\TerminalDevice-HP-Socket\TerminalDevice-HP-Socket\ListenerObj.h(1,10): error C1083: 无法打开包括文件: “HPSocket/HPSocket.h”: No such file or directory
+  正在生成代码...

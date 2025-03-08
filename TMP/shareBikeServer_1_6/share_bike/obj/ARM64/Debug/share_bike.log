@@ -1,0 +1,2 @@
+﻿  无法创建远程项目目录:“/home/yidiandian/projects/share_bike”。请检查目录权限。
+D:\VS2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets(185,5): error MSB4181: “ResolveRemoteDir”任务返回了 false，但未记录错误。

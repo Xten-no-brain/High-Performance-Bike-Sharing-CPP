@@ -1,0 +1,149 @@
+﻿  正在验证源
+  正在将源远程复制到“47.98.173.9”
+  正在验证体系结构
+  正在验证体系结构
+D:\VS2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets(202,5): warning : 当前项目体系结构“ARM”不兼容远程系统体系结构“x64”(“x64”)。请在 Configuration Manager 中将项目体系结构切换为“x64”。如果正在交叉编译，可以忽略此警告。
+  正在启动远程生成
+  正在编译源:
+  bike.pb.cc
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(1336,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(1344,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(1642,68): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(1939,68): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(1963,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(2246,68): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(2462,68): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(2470,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(2770,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(3108,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(3116,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(3743,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(3773,71): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(4095,68): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(4370,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(4389,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(4904,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(4923,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(5213,68): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(5221,72): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(5539,68): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(5547,72): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(5889,68): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(6265,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(6591,68): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(6949,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(6957,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(6989,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(7690,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(8269,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(8709,68): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(8717,72): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(9044,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(9557,66): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(9565,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(9860,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\bike.pb.cc(10685,69): warning : conversion to ‘google::protobuf::int32 {aka int}’ from ‘google::protobuf::uint64 {aka long unsigned int}’ may alter its value [-Wconversion]
+  BusProcessor.cpp
+E:\VsProject\shareBikeServer_68_128\share_bike\SqlTables.h(22,63): warning : backslash and newline separated by space
+E:\VsProject\shareBikeServer_68_128\share_bike\SqlTables.h(22,63): warning :          mobile   varchar(16)  NOT NULL default '13000000000', \
+E:\VsProject\shareBikeServer_68_128\share_bike\SqlTables.h(79,40): warning : backslash and newline separated by space
+E:\VsProject\shareBikeServer_68_128\share_bike\SqlTables.h(79,40): warning :          end_point  point   NOT NULL,   \
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.h(57,18): warning : conversion to ‘i32 {aka int}’ from ‘my_ulonglong {aka long long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.h(57,18): warning :    return m_pRes->row_count;
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.h(57,18): warning :           ~~~~~~~~^~~~~~~~~
+E:\VsProject\shareBikeServer_68_128\share_bike\SqlTables.h(49,13): warning : unused variable ‘row’ [-Wunused-variable]
+E:\VsProject\shareBikeServer_68_128\share_bike\SqlTables.h(49,13): warning :    MYSQL_ROW row;
+E:\VsProject\shareBikeServer_68_128\share_bike\SqlTables.h(49,13): warning :              ^~~
+  DispatchMsgService.cpp
+E:\VsProject\shareBikeServer_68_128\share_bike\DispatchMsgService.cpp(108,25): warning : conversion to ‘i32 {aka int}’ from ‘int_t {aka long int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\DispatchMsgService.cpp(108,25): warning :   return thread_task_post(tp, task);
+E:\VsProject\shareBikeServer_68_128\share_bike\DispatchMsgService.cpp(108,25): warning :          ~~~~~~~~~~~~~~~~^~~~~~~~~~
+E:\VsProject\shareBikeServer_68_128\share_bike\DispatchMsgService.cpp(463,22): warning : unused variable ‘cs’ [-Wunused-variable]
+E:\VsProject\shareBikeServer_68_128\share_bike\DispatchMsgService.cpp(463,22): warning :       ConnectSession* cs = (ConnectSession*)ev->get_args();
+E:\VsProject\shareBikeServer_68_128\share_bike\DispatchMsgService.cpp(463,22): warning :                       ^~
+  ievent.cpp
+  events_def.cpp
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(133,1): warning : no return statement in function returning non-void [-Wreturn-type]
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(133,1): warning :  }
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(133,1): warning :  ^
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(138,1): warning : no return statement in function returning non-void [-Wreturn-type]
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(138,1): warning :  }
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(138,1): warning :  ^
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(143,1): warning : no return statement in function returning non-void [-Wreturn-type]
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(143,1): warning :  }
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(143,1): warning :  ^
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(148,1): warning : no return statement in function returning non-void [-Wreturn-type]
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(148,1): warning :  }
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(148,1): warning :  ^
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(153,1): warning : no return statement in function returning non-void [-Wreturn-type]
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(153,1): warning :  }
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(153,1): warning :  ^
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(158,1): warning : no return statement in function returning non-void [-Wreturn-type]
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(158,1): warning :  }
+E:\VsProject\shareBikeServer_68_128\share_bike\events_def.cpp(158,1): warning :  ^
+  eventtype.cpp
+  iniconfig.cpp
+E:\VsProject\shareBikeServer_68_128\share_bike\iniconfig.cpp(2,10): error : iniparser/iniparser.h: No such file or directory
+E:\VsProject\shareBikeServer_68_128\share_bike\iniconfig.cpp(2,10): error :  #include <iniparser/iniparser.h>
+E:\VsProject\shareBikeServer_68_128\share_bike\iniconfig.cpp(2,10): error :           ^~~~~~~~~~~~~~~~~~~~~~~
+E:\VsProject\shareBikeServer_68_128\share_bike\iniconfig.cpp(2,10): error : compilation terminated.
+  Logger.cpp
+  main.cpp
+E:\VsProject\shareBikeServer_68_128\share_bike\SqlTables.h(22,63): warning : backslash and newline separated by space
+E:\VsProject\shareBikeServer_68_128\share_bike\SqlTables.h(22,63): warning :          mobile   varchar(16)  NOT NULL default '13000000000', \
+E:\VsProject\shareBikeServer_68_128\share_bike\SqlTables.h(79,40): warning : backslash and newline separated by space
+E:\VsProject\shareBikeServer_68_128\share_bike\SqlTables.h(79,40): warning :          end_point  point   NOT NULL,   \
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.h(57,18): warning : conversion to ‘i32 {aka int}’ from ‘my_ulonglong {aka long long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.h(57,18): warning :    return m_pRes->row_count;
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.h(57,18): warning :           ~~~~~~~~^~~~~~~~~
+E:\VsProject\shareBikeServer_68_128\share_bike\SqlTables.h(49,13): warning : unused variable ‘row’ [-Wunused-variable]
+E:\VsProject\shareBikeServer_68_128\share_bike\SqlTables.h(49,13): warning :    MYSQL_ROW row;
+E:\VsProject\shareBikeServer_68_128\share_bike\SqlTables.h(49,13): warning :              ^~~
+  NetworkInterface.cpp
+E:\VsProject\shareBikeServer_68_128\share_bike\NetworkInterface.cpp(64,27): warning : conversion to ‘uint16_t {aka short unsigned int}’ from ‘int’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\NetworkInterface.cpp(64,27): warning :   sin.sin_port = htons(port);
+E:\VsProject\shareBikeServer_68_128\share_bike\NetworkInterface.cpp(64,27): warning :                            ^
+E:\VsProject\shareBikeServer_68_128\share_bike\NetworkInterface.cpp(159,29): warning : conversion to ‘i32 {aka int}’ from ‘size_t {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\NetworkInterface.cpp(159,29): warning :    i32 len = bufferevent_read(bev, cs->header + cs->read_header_len, MESSAGE_HEADER_LEN - cs->read_header_len);
+E:\VsProject\shareBikeServer_68_128\share_bike\NetworkInterface.cpp(159,29): warning :              ~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+E:\VsProject\shareBikeServer_68_128\share_bike\NetworkInterface.cpp(206,29): warning : conversion to ‘i32 {aka int}’ from ‘size_t {aka long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\NetworkInterface.cpp(206,29): warning :    i32 len = bufferevent_read(bev, cs->read_buf + cs->read_message_len, cs->message_len - cs->read_message_len);
+E:\VsProject\shareBikeServer_68_128\share_bike\NetworkInterface.cpp(206,29): warning :              ~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  sqlconnection.cpp
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.h(57,18): warning : conversion to ‘i32 {aka int}’ from ‘my_ulonglong {aka long long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.h(57,18): warning :    return m_pRes->row_count;
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.h(57,18): warning :           ~~~~~~~~^~~~~~~~~
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.cpp(100,1): warning : control reaches end of non-void function [-Wreturn-type]
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.cpp(100,1): warning :  }
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.cpp(100,1): warning :  ^
+  thread_cond.cpp
+  thread_mutex.cpp
+  thread_pool.cpp
+E:\VsProject\shareBikeServer_68_128\share_bike\threadpool\thread_pool.cpp(184,25): warning : unused variable ‘err’ [-Wunused-variable]
+E:\VsProject\shareBikeServer_68_128\share_bike\threadpool\thread_pool.cpp(184,25): warning :      int                 err;
+E:\VsProject\shareBikeServer_68_128\share_bike\threadpool\thread_pool.cpp(184,25): warning :                          ^~~
+  user_event_handler.cpp
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(316,110): warning : backslash and newline separated by space
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(316,110): warning :   sprintf(sql_content_updataBikeinfo, "UPDATE bikeinfo SET status=%d, tmsg = 'bike ride start, riding......', \
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(358,110): warning : backslash and newline separated by space
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(358,110): warning :   sprintf(sql_content_updataBikeinfo, "UPDATE bikeinfo SET status=%d, tmsg= 'bike ride end, waiting for use', \
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(401,117): warning : backslash and newline separated by space
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(401,117): warning :   sprintf(sql_content_updataBikeinfo, "UPDATE bikeinfo SET status=%d, tmsg = 'bike fault, waiting for repair......', \
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(442,116): warning : backslash and newline separated by space
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(442,116): warning :   sprintf(sql_content_updataBikeinfo, "UPDATE bikeinfo SET status=%d, tmsg = 'bike repair finish, waiting for use', \
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.h(57,18): warning : conversion to ‘i32 {aka int}’ from ‘my_ulonglong {aka long long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.h(57,18): warning :    return m_pRes->row_count;
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.h(57,18): warning :           ~~~~~~~~^~~~~~~~~
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(312,15): warning : unused variable ‘longitude’ [-Wunused-variable]
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(312,15): warning :   const double longitude = ev->get_longitude();
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(312,15): warning :                ^~~~~~~~~
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(500,13): warning : suggest parentheses around assignment used as truth value [-Wparentheses]
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(500,13): warning :   while (row = mysql_fetch_row(res))
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(500,13): warning :          ~~~~^~~~~~~~~~~~~~~~~~~~~~
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(497,6): warning : unused variable ‘columns’ [-Wunused-variable]
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(497,6): warning :   int columns = mysql_num_fields(res);
+E:\VsProject\shareBikeServer_68_128\share_bike\user_event_handler.cpp(497,6): warning :       ^~~~~~~
+  user_service.cpp
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.h(57,18): warning : conversion to ‘i32 {aka int}’ from ‘my_ulonglong {aka long long unsigned int}’ may alter its value [-Wconversion]
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.h(57,18): warning :    return m_pRes->row_count;
+E:\VsProject\shareBikeServer_68_128\share_bike\sqlconnection.h(57,18): warning :           ~~~~~~~~^~~~~~~~~

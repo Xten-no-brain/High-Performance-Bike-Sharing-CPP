@@ -1,0 +1,38 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.68.128”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  bike.pb.cc
+cc1plus : error : /root/projects/third/include: 权限不够
+  BusProcessor.cpp
+cc1plus : error : /root/projects/third/include: 权限不够
+  DispatchMsgService.cpp
+cc1plus : error : /root/projects/third/include: 权限不够
+  ievent.cpp
+cc1plus : error : /root/projects/third/include: 权限不够
+  events_def.cpp
+cc1plus : error : /root/projects/third/include: 权限不够
+  eventtype.cpp
+cc1plus : error : /root/projects/third/include: 权限不够
+  iniconfig.cpp
+cc1plus : error : /root/projects/third/include: 权限不够
+  Logger.cpp
+cc1plus : error : /root/projects/third/include: 权限不够
+  main.cpp
+cc1plus : error : /root/projects/third/include: 权限不够
+  NetworkInterface.cpp
+cc1plus : error : /root/projects/third/include: 权限不够
+  sqlconnection.cpp
+cc1plus : error : /root/projects/third/include: 权限不够
+  thread_cond.cpp
+cc1plus : error : /root/projects/third/include: 权限不够
+  thread_mutex.cpp
+cc1plus : error : /root/projects/third/include: 权限不够
+  thread_pool.cpp
+cc1plus : error : /root/projects/third/include: 权限不够
+  user_event_handler.cpp
+cc1plus : error : /root/projects/third/include: 权限不够
+  user_service.cpp
+cc1plus : error : /root/projects/third/include: 权限不够
